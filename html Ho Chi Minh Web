@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+<style>
+  #content {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+  }
+</style>
+<div id="content">
+  <h1> Ho Chi Minh
+  </h1>
+
+  <div class="text-center">
+    <img width="500px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Ho_Chi_Minh_1946.jpg" alt="Bac Ho" >
+  </div>
+  <p>
+    Vietnamese revolutionary and statesman. He served as Prime Minister of Vietnam from 1945 to 1955, and as President of Vietnam from 1945 until his death in 1969.
+    Ideologically a Marxist–Leninist, he was the Chairman and First Secretary of the Workers' Party of Vietnam.
+  </p>
+<h2>
+  About the lengend
+</h2>
+</body>
+<p>
+  The details of Hồ Chí Minh's life before he came to power in Vietnam are uncertain. He is known to have used between 50[10]: 582  and 200 pseudonyms.[11]
+  Information on his birth and early life is ambiguous and subject to academic debate.
+  At least four existing official biographies vary on names, dates, places, and other hard
+</p>
+</html>
+
+
